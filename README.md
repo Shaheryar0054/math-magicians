@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-### React App
+# React App
 
 # 📗 Table of Contents
 
@@ -21,17 +21,14 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [React-app] <a name="about-project"></a>
+# 📖 [React-App] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> In this project we build simple react App that is diplaying logo and added some animation using css.
 
-**[React-app]** In this project we build simple application that have ability to add and remove books
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -52,16 +49,12 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[DOM manipulating]**
-- **[Setup-the-basic-app]**
+- **[DOM-manipulating]**
+- **[Content-loaded-quickly-on-UI]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link]()
 
@@ -69,8 +62,6 @@
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
