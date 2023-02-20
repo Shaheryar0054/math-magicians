@@ -87,9 +87,6 @@ To get a local copy up and running follow these simple example steps.
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-👤 **Author**
-
 👤 **Shaheryar Abid**
 
 - GitHub: [@shaheryar0054](https://github.com/Shaheryar0054)
@@ -101,8 +98,8 @@ To get a local copy up and running follow these simple example steps.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [Used Reactive native library] **[new_feature_1]**
-- [Its loads very fast to the UI] **[new_feature_2]**
+- [] **[new_feature_1]**
+- [] **[new_feature_2]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,15 +114,11 @@ Feel free to check the [issues page](https://github.com/Shaheryar0054/math-magic
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project please give me stars rating 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 - Thanks to the Microverse team for the great curriculum.
 - Thanks to the Code Reviewer(s) for the insightful feedback.
