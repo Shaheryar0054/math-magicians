@@ -101,8 +101,6 @@ To get a local copy up and running follow these simple example steps.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [Used Reactive native library] **[new_feature_1]**
 - [Its loads very fast to the UI] **[new_feature_2]**
 
