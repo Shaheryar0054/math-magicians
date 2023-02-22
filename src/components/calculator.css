@@ -1,0 +1,52 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+}
+
+.display {
+  padding: 12px 30px;
+  box-sizing: border-box;
+  font-size: 40px;
+  text-align: end;
+}
+
+.container {
+  display: grid;
+  width: 551px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.btn {
+  padding: 12px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.zero {
+  grid-column: span 2;
+  align-items: center;
+  padding-left: 1rem;
+}
+
+.divide {
+  background-color: orange;
+}
+
+.multiply {
+  background-color: orange;
+}
+
+.minus {
+  background-color: orange;
+}
+
+.plus {
+  background-color: orange;
+}
+
+.equal {
+  background-color: orange;
+}
