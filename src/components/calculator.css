@@ -10,7 +10,7 @@
   grid-template-columns: repeat(4, 1fr);
 }
 
-.display {
+.input {
   grid-column: 1 / span 4;
   height: 70px;
   padding: 10px;
@@ -22,30 +22,14 @@
   background-color: #858693;
 }
 
-.btn {
+.button {
   height: 70px;
   font-size: 1.5rem;
   cursor: pointer;
 }
 
-.divide {
+.operator {
   background-color: #ff9800;
-  border: 1px solid #6c6c6c;
-}
-
-.multiply {
-  background-color: #ff9800;
-  border: 1px solid #6c6c6c;
-}
-
-.minus {
-  background-color: #ff9800;
-  border: 1px solid #6c6c6c;
-}
-
-.plus {
-  background-color: #ff9800;
-  border: 1px solid #6c6c6c;
 }
 
 .zero {
