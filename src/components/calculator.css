@@ -1,0 +1,59 @@
+.calculator {
+  width: 558px;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: #fff;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.display {
+  grid-column: 1 / span 4;
+  height: 70px;
+  padding: 10px;
+  font-size: 2rem;
+  text-align: right;
+  color: #fdfdfd;
+  border: none;
+  outline: none;
+  background-color: #858693;
+}
+
+.btn {
+  height: 70px;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.divide {
+  background-color: #ff9800;
+  border: 1px solid #6c6c6c;
+}
+
+.multiply {
+  background-color: #ff9800;
+  border: 1px solid #6c6c6c;
+}
+
+.minus {
+  background-color: #ff9800;
+  border: 1px solid #6c6c6c;
+}
+
+.plus {
+  background-color: #ff9800;
+  border: 1px solid #6c6c6c;
+}
+
+.zero {
+  grid-column: 1 / span 2;
+}
+
+.equal {
+  grid-column: 4 / span 1;
+  background-color: #ff9800;
+  border: 1px solid #6c6c6c;
+}
