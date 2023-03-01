@@ -1,10 +1,8 @@
-import Calculator from './components/Calculator';
+import Rout from './components/Rout';
 
 function App() {
   return (
-
-    <Calculator />
-
+    <Rout />
   );
 }
 

@@ -16,7 +16,7 @@ function Calculator() {
   return (
     <section className="calculator">
       <div className="container">
-        <input type="text" value={state.next || state.total || '0'} className="input" />
+        <div className="input">{state.next || state.total || '0'}</div>
         <button type="button" onClick={handleClick} className="button">AC</button>
         <button type="button" onClick={handleClick} className="button">+/-</button>
         <button type="button" onClick={handleClick} className="button">%</button>
