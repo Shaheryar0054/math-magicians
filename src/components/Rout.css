@@ -37,20 +37,25 @@ nav a:hover {
 }
 
 .Home-content {
-  padding: 30px;
+  padding: 30px 119px;
   color: white;
 }
 
 .calculator-content {
-  padding: 30px;
+  padding: 30px 119px;
   color: white;
 }
 
 .Quote-content {
-  padding: 30px;
+  padding: 30px 119px;
   color: white;
 }
 
 .quote-txt {
   text-align: center;
+}
+
+.calculator-txt {
+  width: 100%;
+  display: flex;
 }
